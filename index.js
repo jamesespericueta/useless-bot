@@ -78,4 +78,4 @@ client.on('ready', () => {
 //1000*60*60*24
 })
 
-client.login('Njg2Mzk1MjY1NzI0NDQ4ODAw.XmWlZw.9377wMtV9Ow0hqWCvT2T7liCg7c')
+client.login('')
