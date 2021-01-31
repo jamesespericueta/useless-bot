@@ -1,0 +1,23 @@
+{
+  "name": "useless-bot",
+  "version": "1.0.0",
+  "description": "bot that changes my guild nickname every 2 seconds and the end of my name is the number of weeks left in the year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesespericueta/useless-bot.git"
+  },
+  "author": "jamesespericueta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesespericueta/useless-bot/issues"
+  },
+  "homepage": "https://github.com/jamesespericueta/useless-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1"
+  }
+}
